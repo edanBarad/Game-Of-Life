@@ -19,4 +19,4 @@ Conway's Game of Life is a cellular automaton devised by the British mathematici
 
 - Java JDK 8 or higher
 
-### Running the Program
+
