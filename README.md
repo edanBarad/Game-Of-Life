@@ -20,7 +20,3 @@ Conway's Game of Life is a cellular automaton devised by the British mathematici
 - Java JDK 8 or higher
 
 ### Running the Program
-
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/your-username/your-repo-name.git
